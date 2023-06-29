@@ -1,0 +1,4 @@
+[2023-02-18 06:11:28] production.ERROR: Maximum execution time of 120 seconds exceeded {"userId":1,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Maximum execution time of 120 seconds exceeded at C:\\xampp\\htdocs\\dacsn\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php:46)
+[stacktrace]
+#0 {main}
+"} 

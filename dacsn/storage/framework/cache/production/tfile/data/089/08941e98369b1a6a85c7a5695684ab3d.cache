@@ -1,0 +1,15 @@
+000046a:1:{s:4:"time";s:21:"0.27796400 1688010230";}1688070230a:9:{s:2:"id";i:43;s:10:"updated_at";s:19:"2023-02-18 05:04:57";s:10:"created_at";s:19:"2021-04-27 13:34:20";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:43:"layout-home-banners-skin-1-module-layouts-1";s:5:"value";s:841:"
+    <div class="background-image-holder d-flex w-100 justify-content-center element" style="background-image: url('{SITE_URL}userfiles/templates/new-world/assets/img/slide-1.jpg');">
+        <div class="container d-flex justify-content-center align-items-center element" id="element_1619530413371">
+            <div class="w-100 text-left info-holder allow-drop element" no-data-aos="fade-down" id="element_1619530413519">
+                <h1 class="element" id="element_1619530413383">CHÀO MỪNG BẠN ĐÃ ĐẾN VỚI TRANG RAOVAT24H</h1>
+                <br>
+                <p class="lead element" id="element_1619530413520">ĐĂNG TIN MIỄN PHÍ - RAO BÁN TỨC THÌ</p>
+                <br>
+                <br>
+
+                <div class="element" id="element_1676696329241"></div>
+            </div>
+        </div>
+    </div>
+";}
